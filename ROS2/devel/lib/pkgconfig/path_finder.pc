@@ -1,0 +1,8 @@
+prefix=/home/ishaan/path_planning/devel
+
+Name: path_finder
+Description: Description of path_finder
+Version: 0.0.0
+Cflags: -I/home/ishaan/path_planning/src/path_finder/include
+Libs: -L${prefix}/lib -lpath_finder
+Requires: map_server roscpp rviz std_msgs

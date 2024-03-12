@@ -1,0 +1,2 @@
+path_finder
+-DCATKIN_DEVEL_PREFIX=/home/ishaan/path_planning/devel -DCMAKE_INSTALL_PREFIX=/home/ishaan/path_planning/install -G Unix Makefiles
